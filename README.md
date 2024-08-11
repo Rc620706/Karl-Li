@@ -7,7 +7,7 @@
 - 📹 I am a seasonsed Photographer with over 7 years experiences in landscaping and portrait.
 
 
-## WMy Tech Stack are as follows
+## My Tech Stack are as follows
 #### DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
