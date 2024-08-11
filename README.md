@@ -1,9 +1,11 @@
 ## This is about me (BlueWings)
 
-- 🏫 Fourth-year Applied Computer Science student at Dalhousie University
+- 🧑‍🎓 Fourth-year Applied Computer Science Student at Dalhousie University
 - 📍 Halifax NS Canada
+- 🏋️ I am workout man: around 3 times a week
+- 💻 I am a big fan of coding: Web App Development, Network Security, and LLMs
+- 📹 I am a seasonsed Photographer with over 7 years experiences in landscaping and portrait.
 
-Thanks for dropping by.
 
 ## What I use
 #### DevOps
